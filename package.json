@@ -1,0 +1,22 @@
+{
+  "name": "@nrkn/pure-typescript-test",
+  "version": "0.1.0",
+  "description": "yyy",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrkn/pure-typescript-test.git"
+  },
+  "author": "Nik Coughlin <nrkn.com@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nrkn/pure-typescript-test/issues"
+  },
+  "homepage": "https://github.com/nrkn/pure-typescript-test#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^9.4.6",
+    "mocha": "^5.0.1",
+    "nyc": "^11.4.1"
+  }
+}
